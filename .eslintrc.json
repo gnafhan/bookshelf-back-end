@@ -10,5 +10,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+        "no-shadow": "off",
+        "no-console": "off"
     }
 }
